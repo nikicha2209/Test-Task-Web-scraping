@@ -1,0 +1,18 @@
+C:\Users\HP\Desktop\Flat Rock Technology - Test task\Flat Rock Technology - Test task\bin\Debug\net8.0\Flat Rock Technology - Test task.exe
+C:\Users\HP\Desktop\Flat Rock Technology - Test task\Flat Rock Technology - Test task\bin\Debug\net8.0\Flat Rock Technology - Test task.deps.json
+C:\Users\HP\Desktop\Flat Rock Technology - Test task\Flat Rock Technology - Test task\bin\Debug\net8.0\Flat Rock Technology - Test task.runtimeconfig.json
+C:\Users\HP\Desktop\Flat Rock Technology - Test task\Flat Rock Technology - Test task\bin\Debug\net8.0\Flat Rock Technology - Test task.dll
+C:\Users\HP\Desktop\Flat Rock Technology - Test task\Flat Rock Technology - Test task\bin\Debug\net8.0\Flat Rock Technology - Test task.pdb
+C:\Users\HP\Desktop\Flat Rock Technology - Test task\Flat Rock Technology - Test task\bin\Debug\net8.0\HtmlAgilityPack.dll
+C:\Users\HP\Desktop\Flat Rock Technology - Test task\Flat Rock Technology - Test task\obj\Debug\net8.0\Flat Rock Technology - Test task.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Flat Rock Technology - Test task\Flat Rock Technology - Test task\obj\Debug\net8.0\Flat Rock Technology - Test task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Flat Rock Technology - Test task\Flat Rock Technology - Test task\obj\Debug\net8.0\Flat Rock Technology - Test task.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Flat Rock Technology - Test task\Flat Rock Technology - Test task\obj\Debug\net8.0\Flat Rock Technology - Test task.AssemblyInfo.cs
+C:\Users\HP\Desktop\Flat Rock Technology - Test task\Flat Rock Technology - Test task\obj\Debug\net8.0\Flat Rock Technology - Test task.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Flat Rock Technology - Test task\Flat Rock Technology - Test task\obj\Debug\net8.0\Flat Roc.80330D39.Up2Date
+C:\Users\HP\Desktop\Flat Rock Technology - Test task\Flat Rock Technology - Test task\obj\Debug\net8.0\Flat Rock Technology - Test task.dll
+C:\Users\HP\Desktop\Flat Rock Technology - Test task\Flat Rock Technology - Test task\obj\Debug\net8.0\refint\Flat Rock Technology - Test task.dll
+C:\Users\HP\Desktop\Flat Rock Technology - Test task\Flat Rock Technology - Test task\obj\Debug\net8.0\Flat Rock Technology - Test task.pdb
+C:\Users\HP\Desktop\Flat Rock Technology - Test task\Flat Rock Technology - Test task\obj\Debug\net8.0\Flat Rock Technology - Test task.genruntimeconfig.cache
+C:\Users\HP\Desktop\Flat Rock Technology - Test task\Flat Rock Technology - Test task\obj\Debug\net8.0\ref\Flat Rock Technology - Test task.dll
+C:\Users\HP\Desktop\Flat Rock Technology - Test task\Flat Rock Technology - Test task\bin\Debug\net8.0\Newtonsoft.Json.dll
